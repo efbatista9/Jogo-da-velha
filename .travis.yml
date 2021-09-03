@@ -1,0 +1,8 @@
+linguage: python
+python:
+ - "3.4"
+before_script:
+ - cd src
+ script:
+  - python teste.py
+ 
